@@ -1,0 +1,11 @@
+ingredient,unit,current_stock,reorder_level,cost_per_unit_cad,supplier,lead_time_days,shelf_life_days,expiration_date,price_basis
+All-purpose flour,kg,141.5,58.9,1.8,Bulk dry-goods supplier,2,180,2026-11-24,"StatCan retail $5.25/2.5kg = $2.10/kg, about 15% off for bulk"
+Butter,kg,11.1,13.8,10.8,Dairy wholesaler,2,60,2026-11-24,"StatCan retail $5.79/454g = $12.75/kg, about 15% off for bulk"
+White sugar,kg,25.3,8.4,1.25,Bulk dry-goods supplier,2,365,2026-11-28,"StatCan retail $2.94/2kg = $1.47/kg, about 15% off for bulk"
+Eggs,each,114.0,64.0,0.34,Local egg farm,2,28,2026-11-27,"StatCan retail $4.81/dozen = $0.40 each, about 15% off for bulk"
+Milk,L,9.5,7.3,2.7,Dairy wholesaler,1,7,2026-11-27,"StatCan retail $3.17/L, about 15% off for bulk"
+Instant yeast,kg,1.8,0.5,9.0,Bulk dry-goods supplier,3,365,2026-11-27,ESTIMATE (not from a source)
+Salt,kg,5.4,0.9,0.9,Bulk dry-goods supplier,3,730,2026-11-28,ESTIMATE (not from a source)
+Dark chocolate,kg,7.8,3.5,12.0,Specialty baking supplier,3,270,2026-11-27,ESTIMATE (not from a source)
+Blueberries,kg,3.5,3.0,9.5,Frozen-fruit supplier,2,10,2026-11-29,"ESTIMATE (not from a source), frozen-bulk pricing"
+Cinnamon,kg,0.7,0.1,20.0,Spice wholesaler,3,365,2026-11-25,ESTIMATE (not from a source)

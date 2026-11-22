@@ -1,0 +1,1856 @@
+date,food_item,simulated_true_demand
+2026-03-01,Croissant,63
+2026-03-02,Croissant,66
+2026-03-03,Croissant,99
+2026-03-04,Croissant,68
+2026-03-05,Croissant,73
+2026-03-06,Croissant,99
+2026-03-07,Croissant,91
+2026-03-08,Croissant,71
+2026-03-09,Croissant,45
+2026-03-10,Croissant,59
+2026-03-11,Croissant,75
+2026-03-12,Croissant,87
+2026-03-13,Croissant,102
+2026-03-14,Croissant,131
+2026-03-15,Croissant,99
+2026-03-16,Croissant,52
+2026-03-17,Croissant,58
+2026-03-18,Croissant,64
+2026-03-19,Croissant,64
+2026-03-20,Croissant,90
+2026-03-21,Croissant,104
+2026-03-22,Croissant,72
+2026-03-23,Croissant,94
+2026-03-24,Croissant,55
+2026-03-25,Croissant,74
+2026-03-26,Croissant,53
+2026-03-27,Croissant,69
+2026-03-28,Croissant,102
+2026-03-29,Croissant,90
+2026-03-30,Croissant,54
+2026-03-31,Croissant,58
+2026-04-01,Croissant,88
+2026-04-02,Croissant,86
+2026-04-03,Croissant,81
+2026-04-04,Croissant,113
+2026-04-05,Croissant,110
+2026-04-06,Croissant,52
+2026-04-07,Croissant,52
+2026-04-08,Croissant,68
+2026-04-09,Croissant,94
+2026-04-10,Croissant,95
+2026-04-11,Croissant,105
+2026-04-12,Croissant,85
+2026-04-13,Croissant,92
+2026-04-14,Croissant,47
+2026-04-15,Croissant,61
+2026-04-16,Croissant,74
+2026-04-17,Croissant,87
+2026-04-18,Croissant,109
+2026-04-19,Croissant,77
+2026-04-20,Croissant,58
+2026-04-21,Croissant,64
+2026-04-22,Croissant,58
+2026-04-23,Croissant,73
+2026-04-24,Croissant,47
+2026-04-25,Croissant,152
+2026-04-26,Croissant,122
+2026-04-27,Croissant,60
+2026-04-28,Croissant,63
+2026-04-29,Croissant,76
+2026-04-30,Croissant,57
+2026-05-01,Croissant,55
+2026-05-02,Croissant,109
+2026-05-03,Croissant,70
+2026-05-04,Croissant,62
+2026-05-05,Croissant,66
+2026-05-06,Croissant,94
+2026-05-07,Croissant,60
+2026-05-08,Croissant,89
+2026-05-09,Croissant,76
+2026-05-10,Croissant,134
+2026-05-11,Croissant,64
+2026-05-12,Croissant,71
+2026-05-13,Croissant,53
+2026-05-14,Croissant,81
+2026-05-15,Croissant,80
+2026-05-16,Croissant,101
+2026-05-17,Croissant,112
+2026-05-18,Croissant,56
+2026-05-19,Croissant,78
+2026-05-20,Croissant,54
+2026-05-21,Croissant,77
+2026-05-22,Croissant,75
+2026-05-23,Croissant,145
+2026-05-24,Croissant,70
+2026-05-25,Croissant,65
+2026-05-26,Croissant,86
+2026-05-27,Croissant,91
+2026-05-28,Croissant,64
+2026-05-29,Croissant,74
+2026-05-30,Croissant,103
+2026-05-31,Croissant,105
+2026-06-01,Croissant,52
+2026-06-02,Croissant,55
+2026-06-03,Croissant,82
+2026-06-04,Croissant,74
+2026-06-05,Croissant,89
+2026-06-06,Croissant,74
+2026-06-07,Croissant,93
+2026-06-08,Croissant,56
+2026-06-09,Croissant,55
+2026-06-10,Croissant,58
+2026-06-11,Croissant,67
+2026-06-12,Croissant,65
+2026-06-13,Croissant,123
+2026-06-14,Croissant,74
+2026-06-15,Croissant,60
+2026-06-16,Croissant,70
+2026-06-17,Croissant,50
+2026-06-18,Croissant,74
+2026-06-19,Croissant,70
+2026-06-20,Croissant,109
+2026-06-21,Croissant,97
+2026-06-22,Croissant,60
+2026-06-23,Croissant,69
+2026-06-24,Croissant,53
+2026-06-25,Croissant,56
+2026-06-26,Croissant,86
+2026-06-27,Croissant,108
+2026-06-28,Croissant,71
+2026-06-29,Croissant,49
+2026-06-30,Croissant,77
+2026-07-01,Croissant,32
+2026-07-02,Croissant,66
+2026-07-03,Croissant,80
+2026-07-04,Croissant,107
+2026-07-05,Croissant,124
+2026-07-06,Croissant,60
+2026-07-07,Croissant,64
+2026-07-08,Croissant,48
+2026-07-09,Croissant,78
+2026-07-10,Croissant,123
+2026-07-11,Croissant,146
+2026-07-12,Croissant,81
+2026-07-13,Croissant,57
+2026-07-14,Croissant,82
+2026-07-15,Croissant,95
+2026-07-16,Croissant,68
+2026-07-17,Croissant,75
+2026-07-18,Croissant,115
+2026-07-19,Croissant,104
+2026-07-20,Croissant,64
+2026-07-21,Croissant,66
+2026-07-22,Croissant,54
+2026-07-23,Croissant,81
+2026-07-24,Croissant,81
+2026-07-25,Croissant,85
+2026-07-26,Croissant,76
+2026-07-27,Croissant,46
+2026-07-28,Croissant,55
+2026-07-29,Croissant,52
+2026-07-30,Croissant,80
+2026-07-31,Croissant,89
+2026-08-01,Croissant,124
+2026-08-02,Croissant,92
+2026-08-03,Croissant,55
+2026-08-04,Croissant,74
+2026-08-05,Croissant,57
+2026-08-06,Croissant,78
+2026-08-07,Croissant,97
+2026-08-08,Croissant,122
+2026-08-09,Croissant,103
+2026-08-10,Croissant,62
+2026-08-11,Croissant,66
+2026-08-12,Croissant,65
+2026-08-13,Croissant,81
+2026-08-14,Croissant,95
+2026-08-15,Croissant,106
+2026-08-16,Croissant,78
+2026-08-17,Croissant,62
+2026-08-18,Croissant,70
+2026-08-19,Croissant,59
+2026-08-20,Croissant,55
+2026-08-21,Croissant,145
+2026-08-22,Croissant,92
+2026-08-23,Croissant,104
+2026-08-24,Croissant,77
+2026-08-25,Croissant,72
+2026-08-26,Croissant,48
+2026-08-27,Croissant,85
+2026-08-28,Croissant,89
+2026-08-29,Croissant,86
+2026-08-30,Croissant,66
+2026-08-31,Croissant,41
+2026-09-01,Croissant,81
+2026-09-02,Croissant,70
+2026-09-03,Croissant,76
+2026-09-04,Croissant,68
+2026-09-05,Croissant,158
+2026-09-06,Croissant,90
+2026-09-07,Croissant,40
+2026-09-08,Croissant,61
+2026-09-09,Croissant,60
+2026-09-10,Croissant,77
+2026-09-11,Croissant,89
+2026-09-12,Croissant,138
+2026-09-13,Croissant,90
+2026-09-14,Croissant,58
+2026-09-15,Croissant,71
+2026-09-16,Croissant,61
+2026-09-17,Croissant,104
+2026-09-18,Croissant,77
+2026-09-19,Croissant,99
+2026-09-20,Croissant,68
+2026-09-21,Croissant,76
+2026-09-22,Croissant,55
+2026-09-23,Croissant,92
+2026-09-24,Croissant,77
+2026-09-25,Croissant,80
+2026-09-26,Croissant,83
+2026-09-27,Croissant,69
+2026-09-28,Croissant,46
+2026-09-29,Croissant,70
+2026-09-30,Croissant,76
+2026-10-01,Croissant,73
+2026-10-02,Croissant,92
+2026-10-03,Croissant,121
+2026-10-04,Croissant,88
+2026-10-05,Croissant,50
+2026-10-06,Croissant,37
+2026-10-07,Croissant,68
+2026-10-08,Croissant,82
+2026-10-09,Croissant,79
+2026-10-10,Croissant,91
+2026-10-11,Croissant,105
+2026-10-12,Croissant,94
+2026-10-13,Croissant,59
+2026-10-14,Croissant,69
+2026-10-15,Croissant,55
+2026-10-16,Croissant,80
+2026-10-17,Croissant,112
+2026-10-18,Croissant,102
+2026-10-19,Croissant,68
+2026-10-20,Croissant,70
+2026-10-21,Croissant,106
+2026-10-22,Croissant,58
+2026-10-23,Croissant,85
+2026-10-24,Croissant,143
+2026-10-25,Croissant,85
+2026-10-26,Croissant,86
+2026-10-27,Croissant,67
+2026-10-28,Croissant,73
+2026-10-29,Croissant,75
+2026-10-30,Croissant,89
+2026-10-31,Croissant,86
+2026-11-01,Croissant,107
+2026-11-02,Croissant,59
+2026-11-03,Croissant,72
+2026-11-04,Croissant,55
+2026-11-05,Croissant,93
+2026-11-06,Croissant,84
+2026-11-07,Croissant,100
+2026-11-08,Croissant,81
+2026-11-09,Croissant,54
+2026-11-10,Croissant,64
+2026-11-11,Croissant,73
+2026-11-12,Croissant,65
+2026-11-13,Croissant,102
+2026-11-14,Croissant,80
+2026-11-15,Croissant,89
+2026-11-16,Croissant,75
+2026-11-17,Croissant,64
+2026-11-18,Croissant,65
+2026-11-19,Croissant,88
+2026-11-20,Croissant,76
+2026-03-01,Pain au chocolat,45
+2026-03-02,Pain au chocolat,29
+2026-03-03,Pain au chocolat,42
+2026-03-04,Pain au chocolat,48
+2026-03-05,Pain au chocolat,43
+2026-03-06,Pain au chocolat,70
+2026-03-07,Pain au chocolat,74
+2026-03-08,Pain au chocolat,59
+2026-03-09,Pain au chocolat,54
+2026-03-10,Pain au chocolat,40
+2026-03-11,Pain au chocolat,39
+2026-03-12,Pain au chocolat,42
+2026-03-13,Pain au chocolat,55
+2026-03-14,Pain au chocolat,61
+2026-03-15,Pain au chocolat,39
+2026-03-16,Pain au chocolat,37
+2026-03-17,Pain au chocolat,34
+2026-03-18,Pain au chocolat,43
+2026-03-19,Pain au chocolat,45
+2026-03-20,Pain au chocolat,59
+2026-03-21,Pain au chocolat,90
+2026-03-22,Pain au chocolat,54
+2026-03-23,Pain au chocolat,39
+2026-03-24,Pain au chocolat,28
+2026-03-25,Pain au chocolat,41
+2026-03-26,Pain au chocolat,40
+2026-03-27,Pain au chocolat,41
+2026-03-28,Pain au chocolat,74
+2026-03-29,Pain au chocolat,27
+2026-03-30,Pain au chocolat,38
+2026-03-31,Pain au chocolat,40
+2026-04-01,Pain au chocolat,42
+2026-04-02,Pain au chocolat,52
+2026-04-03,Pain au chocolat,56
+2026-04-04,Pain au chocolat,64
+2026-04-05,Pain au chocolat,84
+2026-04-06,Pain au chocolat,32
+2026-04-07,Pain au chocolat,37
+2026-04-08,Pain au chocolat,39
+2026-04-09,Pain au chocolat,49
+2026-04-10,Pain au chocolat,47
+2026-04-11,Pain au chocolat,56
+2026-04-12,Pain au chocolat,64
+2026-04-13,Pain au chocolat,36
+2026-04-14,Pain au chocolat,36
+2026-04-15,Pain au chocolat,37
+2026-04-16,Pain au chocolat,56
+2026-04-17,Pain au chocolat,42
+2026-04-18,Pain au chocolat,73
+2026-04-19,Pain au chocolat,58
+2026-04-20,Pain au chocolat,38
+2026-04-21,Pain au chocolat,52
+2026-04-22,Pain au chocolat,44
+2026-04-23,Pain au chocolat,58
+2026-04-24,Pain au chocolat,55
+2026-04-25,Pain au chocolat,69
+2026-04-26,Pain au chocolat,59
+2026-04-27,Pain au chocolat,48
+2026-04-28,Pain au chocolat,37
+2026-04-29,Pain au chocolat,66
+2026-04-30,Pain au chocolat,53
+2026-05-01,Pain au chocolat,63
+2026-05-02,Pain au chocolat,62
+2026-05-03,Pain au chocolat,52
+2026-05-04,Pain au chocolat,36
+2026-05-05,Pain au chocolat,29
+2026-05-06,Pain au chocolat,34
+2026-05-07,Pain au chocolat,44
+2026-05-08,Pain au chocolat,53
+2026-05-09,Pain au chocolat,84
+2026-05-10,Pain au chocolat,107
+2026-05-11,Pain au chocolat,39
+2026-05-12,Pain au chocolat,51
+2026-05-13,Pain au chocolat,47
+2026-05-14,Pain au chocolat,38
+2026-05-15,Pain au chocolat,40
+2026-05-16,Pain au chocolat,81
+2026-05-17,Pain au chocolat,68
+2026-05-18,Pain au chocolat,62
+2026-05-19,Pain au chocolat,58
+2026-05-20,Pain au chocolat,33
+2026-05-21,Pain au chocolat,72
+2026-05-22,Pain au chocolat,61
+2026-05-23,Pain au chocolat,84
+2026-05-24,Pain au chocolat,61
+2026-05-25,Pain au chocolat,41
+2026-05-26,Pain au chocolat,42
+2026-05-27,Pain au chocolat,37
+2026-05-28,Pain au chocolat,48
+2026-05-29,Pain au chocolat,49
+2026-05-30,Pain au chocolat,59
+2026-05-31,Pain au chocolat,67
+2026-06-01,Pain au chocolat,33
+2026-06-02,Pain au chocolat,42
+2026-06-03,Pain au chocolat,45
+2026-06-04,Pain au chocolat,59
+2026-06-05,Pain au chocolat,63
+2026-06-06,Pain au chocolat,71
+2026-06-07,Pain au chocolat,61
+2026-06-08,Pain au chocolat,33
+2026-06-09,Pain au chocolat,38
+2026-06-10,Pain au chocolat,41
+2026-06-11,Pain au chocolat,44
+2026-06-12,Pain au chocolat,50
+2026-06-13,Pain au chocolat,94
+2026-06-14,Pain au chocolat,53
+2026-06-15,Pain au chocolat,27
+2026-06-16,Pain au chocolat,54
+2026-06-17,Pain au chocolat,49
+2026-06-18,Pain au chocolat,64
+2026-06-19,Pain au chocolat,41
+2026-06-20,Pain au chocolat,84
+2026-06-21,Pain au chocolat,55
+2026-06-22,Pain au chocolat,49
+2026-06-23,Pain au chocolat,41
+2026-06-24,Pain au chocolat,38
+2026-06-25,Pain au chocolat,50
+2026-06-26,Pain au chocolat,70
+2026-06-27,Pain au chocolat,90
+2026-06-28,Pain au chocolat,54
+2026-06-29,Pain au chocolat,50
+2026-06-30,Pain au chocolat,34
+2026-07-01,Pain au chocolat,30
+2026-07-02,Pain au chocolat,49
+2026-07-03,Pain au chocolat,74
+2026-07-04,Pain au chocolat,62
+2026-07-05,Pain au chocolat,64
+2026-07-06,Pain au chocolat,40
+2026-07-07,Pain au chocolat,61
+2026-07-08,Pain au chocolat,38
+2026-07-09,Pain au chocolat,56
+2026-07-10,Pain au chocolat,40
+2026-07-11,Pain au chocolat,94
+2026-07-12,Pain au chocolat,71
+2026-07-13,Pain au chocolat,23
+2026-07-14,Pain au chocolat,52
+2026-07-15,Pain au chocolat,52
+2026-07-16,Pain au chocolat,45
+2026-07-17,Pain au chocolat,55
+2026-07-18,Pain au chocolat,76
+2026-07-19,Pain au chocolat,59
+2026-07-20,Pain au chocolat,48
+2026-07-21,Pain au chocolat,60
+2026-07-22,Pain au chocolat,50
+2026-07-23,Pain au chocolat,31
+2026-07-24,Pain au chocolat,58
+2026-07-25,Pain au chocolat,80
+2026-07-26,Pain au chocolat,43
+2026-07-27,Pain au chocolat,47
+2026-07-28,Pain au chocolat,41
+2026-07-29,Pain au chocolat,54
+2026-07-30,Pain au chocolat,47
+2026-07-31,Pain au chocolat,61
+2026-08-01,Pain au chocolat,65
+2026-08-02,Pain au chocolat,66
+2026-08-03,Pain au chocolat,31
+2026-08-04,Pain au chocolat,60
+2026-08-05,Pain au chocolat,40
+2026-08-06,Pain au chocolat,43
+2026-08-07,Pain au chocolat,45
+2026-08-08,Pain au chocolat,77
+2026-08-09,Pain au chocolat,95
+2026-08-10,Pain au chocolat,50
+2026-08-11,Pain au chocolat,43
+2026-08-12,Pain au chocolat,48
+2026-08-13,Pain au chocolat,44
+2026-08-14,Pain au chocolat,62
+2026-08-15,Pain au chocolat,83
+2026-08-16,Pain au chocolat,61
+2026-08-17,Pain au chocolat,46
+2026-08-18,Pain au chocolat,46
+2026-08-19,Pain au chocolat,45
+2026-08-20,Pain au chocolat,67
+2026-08-21,Pain au chocolat,56
+2026-08-22,Pain au chocolat,78
+2026-08-23,Pain au chocolat,62
+2026-08-24,Pain au chocolat,53
+2026-08-25,Pain au chocolat,32
+2026-08-26,Pain au chocolat,46
+2026-08-27,Pain au chocolat,31
+2026-08-28,Pain au chocolat,63
+2026-08-29,Pain au chocolat,84
+2026-08-30,Pain au chocolat,59
+2026-08-31,Pain au chocolat,35
+2026-09-01,Pain au chocolat,29
+2026-09-02,Pain au chocolat,41
+2026-09-03,Pain au chocolat,62
+2026-09-04,Pain au chocolat,56
+2026-09-05,Pain au chocolat,81
+2026-09-06,Pain au chocolat,59
+2026-09-07,Pain au chocolat,43
+2026-09-08,Pain au chocolat,41
+2026-09-09,Pain au chocolat,48
+2026-09-10,Pain au chocolat,38
+2026-09-11,Pain au chocolat,45
+2026-09-12,Pain au chocolat,90
+2026-09-13,Pain au chocolat,54
+2026-09-14,Pain au chocolat,54
+2026-09-15,Pain au chocolat,55
+2026-09-16,Pain au chocolat,46
+2026-09-17,Pain au chocolat,54
+2026-09-18,Pain au chocolat,53
+2026-09-19,Pain au chocolat,72
+2026-09-20,Pain au chocolat,83
+2026-09-21,Pain au chocolat,62
+2026-09-22,Pain au chocolat,36
+2026-09-23,Pain au chocolat,43
+2026-09-24,Pain au chocolat,57
+2026-09-25,Pain au chocolat,57
+2026-09-26,Pain au chocolat,78
+2026-09-27,Pain au chocolat,66
+2026-09-28,Pain au chocolat,54
+2026-09-29,Pain au chocolat,61
+2026-09-30,Pain au chocolat,52
+2026-10-01,Pain au chocolat,56
+2026-10-02,Pain au chocolat,47
+2026-10-03,Pain au chocolat,91
+2026-10-04,Pain au chocolat,45
+2026-10-05,Pain au chocolat,37
+2026-10-06,Pain au chocolat,46
+2026-10-07,Pain au chocolat,29
+2026-10-08,Pain au chocolat,45
+2026-10-09,Pain au chocolat,65
+2026-10-10,Pain au chocolat,55
+2026-10-11,Pain au chocolat,45
+2026-10-12,Pain au chocolat,42
+2026-10-13,Pain au chocolat,44
+2026-10-14,Pain au chocolat,56
+2026-10-15,Pain au chocolat,49
+2026-10-16,Pain au chocolat,65
+2026-10-17,Pain au chocolat,55
+2026-10-18,Pain au chocolat,53
+2026-10-19,Pain au chocolat,36
+2026-10-20,Pain au chocolat,46
+2026-10-21,Pain au chocolat,42
+2026-10-22,Pain au chocolat,51
+2026-10-23,Pain au chocolat,48
+2026-10-24,Pain au chocolat,71
+2026-10-25,Pain au chocolat,54
+2026-10-26,Pain au chocolat,36
+2026-10-27,Pain au chocolat,48
+2026-10-28,Pain au chocolat,60
+2026-10-29,Pain au chocolat,82
+2026-10-30,Pain au chocolat,63
+2026-10-31,Pain au chocolat,65
+2026-11-01,Pain au chocolat,56
+2026-11-02,Pain au chocolat,40
+2026-11-03,Pain au chocolat,46
+2026-11-04,Pain au chocolat,43
+2026-11-05,Pain au chocolat,47
+2026-11-06,Pain au chocolat,61
+2026-11-07,Pain au chocolat,79
+2026-11-08,Pain au chocolat,67
+2026-11-09,Pain au chocolat,57
+2026-11-10,Pain au chocolat,30
+2026-11-11,Pain au chocolat,49
+2026-11-12,Pain au chocolat,45
+2026-11-13,Pain au chocolat,59
+2026-11-14,Pain au chocolat,67
+2026-11-15,Pain au chocolat,69
+2026-11-16,Pain au chocolat,44
+2026-11-17,Pain au chocolat,43
+2026-11-18,Pain au chocolat,36
+2026-11-19,Pain au chocolat,44
+2026-11-20,Pain au chocolat,70
+2026-03-01,Baguette,56
+2026-03-02,Baguette,42
+2026-03-03,Baguette,56
+2026-03-04,Baguette,70
+2026-03-05,Baguette,78
+2026-03-06,Baguette,63
+2026-03-07,Baguette,72
+2026-03-08,Baguette,81
+2026-03-09,Baguette,42
+2026-03-10,Baguette,55
+2026-03-11,Baguette,46
+2026-03-12,Baguette,41
+2026-03-13,Baguette,53
+2026-03-14,Baguette,91
+2026-03-15,Baguette,65
+2026-03-16,Baguette,49
+2026-03-17,Baguette,37
+2026-03-18,Baguette,74
+2026-03-19,Baguette,63
+2026-03-20,Baguette,81
+2026-03-21,Baguette,87
+2026-03-22,Baguette,77
+2026-03-23,Baguette,62
+2026-03-24,Baguette,43
+2026-03-25,Baguette,66
+2026-03-26,Baguette,43
+2026-03-27,Baguette,87
+2026-03-28,Baguette,120
+2026-03-29,Baguette,74
+2026-03-30,Baguette,42
+2026-03-31,Baguette,66
+2026-04-01,Baguette,44
+2026-04-02,Baguette,53
+2026-04-03,Baguette,80
+2026-04-04,Baguette,94
+2026-04-05,Baguette,122
+2026-04-06,Baguette,59
+2026-04-07,Baguette,44
+2026-04-08,Baguette,59
+2026-04-09,Baguette,56
+2026-04-10,Baguette,59
+2026-04-11,Baguette,111
+2026-04-12,Baguette,63
+2026-04-13,Baguette,52
+2026-04-14,Baguette,70
+2026-04-15,Baguette,48
+2026-04-16,Baguette,76
+2026-04-17,Baguette,56
+2026-04-18,Baguette,101
+2026-04-19,Baguette,72
+2026-04-20,Baguette,75
+2026-04-21,Baguette,41
+2026-04-22,Baguette,53
+2026-04-23,Baguette,50
+2026-04-24,Baguette,70
+2026-04-25,Baguette,58
+2026-04-26,Baguette,93
+2026-04-27,Baguette,51
+2026-04-28,Baguette,58
+2026-04-29,Baguette,58
+2026-04-30,Baguette,56
+2026-05-01,Baguette,66
+2026-05-02,Baguette,101
+2026-05-03,Baguette,85
+2026-05-04,Baguette,51
+2026-05-05,Baguette,52
+2026-05-06,Baguette,60
+2026-05-07,Baguette,44
+2026-05-08,Baguette,74
+2026-05-09,Baguette,83
+2026-05-10,Baguette,91
+2026-05-11,Baguette,53
+2026-05-12,Baguette,69
+2026-05-13,Baguette,40
+2026-05-14,Baguette,53
+2026-05-15,Baguette,52
+2026-05-16,Baguette,86
+2026-05-17,Baguette,61
+2026-05-18,Baguette,46
+2026-05-19,Baguette,57
+2026-05-20,Baguette,53
+2026-05-21,Baguette,53
+2026-05-22,Baguette,73
+2026-05-23,Baguette,94
+2026-05-24,Baguette,63
+2026-05-25,Baguette,56
+2026-05-26,Baguette,57
+2026-05-27,Baguette,49
+2026-05-28,Baguette,53
+2026-05-29,Baguette,88
+2026-05-30,Baguette,102
+2026-05-31,Baguette,82
+2026-06-01,Baguette,58
+2026-06-02,Baguette,49
+2026-06-03,Baguette,37
+2026-06-04,Baguette,73
+2026-06-05,Baguette,52
+2026-06-06,Baguette,60
+2026-06-07,Baguette,83
+2026-06-08,Baguette,49
+2026-06-09,Baguette,45
+2026-06-10,Baguette,61
+2026-06-11,Baguette,50
+2026-06-12,Baguette,45
+2026-06-13,Baguette,91
+2026-06-14,Baguette,79
+2026-06-15,Baguette,47
+2026-06-16,Baguette,44
+2026-06-17,Baguette,48
+2026-06-18,Baguette,44
+2026-06-19,Baguette,60
+2026-06-20,Baguette,84
+2026-06-21,Baguette,74
+2026-06-22,Baguette,64
+2026-06-23,Baguette,49
+2026-06-24,Baguette,62
+2026-06-25,Baguette,60
+2026-06-26,Baguette,69
+2026-06-27,Baguette,79
+2026-06-28,Baguette,56
+2026-06-29,Baguette,50
+2026-06-30,Baguette,39
+2026-07-01,Baguette,31
+2026-07-02,Baguette,50
+2026-07-03,Baguette,83
+2026-07-04,Baguette,115
+2026-07-05,Baguette,89
+2026-07-06,Baguette,39
+2026-07-07,Baguette,42
+2026-07-08,Baguette,50
+2026-07-09,Baguette,40
+2026-07-10,Baguette,77
+2026-07-11,Baguette,135
+2026-07-12,Baguette,88
+2026-07-13,Baguette,41
+2026-07-14,Baguette,47
+2026-07-15,Baguette,66
+2026-07-16,Baguette,51
+2026-07-17,Baguette,71
+2026-07-18,Baguette,88
+2026-07-19,Baguette,93
+2026-07-20,Baguette,53
+2026-07-21,Baguette,53
+2026-07-22,Baguette,45
+2026-07-23,Baguette,54
+2026-07-24,Baguette,81
+2026-07-25,Baguette,99
+2026-07-26,Baguette,72
+2026-07-27,Baguette,52
+2026-07-28,Baguette,54
+2026-07-29,Baguette,44
+2026-07-30,Baguette,51
+2026-07-31,Baguette,54
+2026-08-01,Baguette,72
+2026-08-02,Baguette,79
+2026-08-03,Baguette,44
+2026-08-04,Baguette,48
+2026-08-05,Baguette,50
+2026-08-06,Baguette,62
+2026-08-07,Baguette,73
+2026-08-08,Baguette,128
+2026-08-09,Baguette,89
+2026-08-10,Baguette,57
+2026-08-11,Baguette,59
+2026-08-12,Baguette,72
+2026-08-13,Baguette,60
+2026-08-14,Baguette,65
+2026-08-15,Baguette,105
+2026-08-16,Baguette,92
+2026-08-17,Baguette,52
+2026-08-18,Baguette,55
+2026-08-19,Baguette,55
+2026-08-20,Baguette,64
+2026-08-21,Baguette,72
+2026-08-22,Baguette,83
+2026-08-23,Baguette,81
+2026-08-24,Baguette,51
+2026-08-25,Baguette,39
+2026-08-26,Baguette,68
+2026-08-27,Baguette,67
+2026-08-28,Baguette,73
+2026-08-29,Baguette,88
+2026-08-30,Baguette,68
+2026-08-31,Baguette,45
+2026-09-01,Baguette,39
+2026-09-02,Baguette,50
+2026-09-03,Baguette,49
+2026-09-04,Baguette,60
+2026-09-05,Baguette,68
+2026-09-06,Baguette,92
+2026-09-07,Baguette,43
+2026-09-08,Baguette,36
+2026-09-09,Baguette,57
+2026-09-10,Baguette,67
+2026-09-11,Baguette,76
+2026-09-12,Baguette,108
+2026-09-13,Baguette,70
+2026-09-14,Baguette,44
+2026-09-15,Baguette,51
+2026-09-16,Baguette,54
+2026-09-17,Baguette,73
+2026-09-18,Baguette,69
+2026-09-19,Baguette,97
+2026-09-20,Baguette,86
+2026-09-21,Baguette,46
+2026-09-22,Baguette,39
+2026-09-23,Baguette,65
+2026-09-24,Baguette,69
+2026-09-25,Baguette,54
+2026-09-26,Baguette,91
+2026-09-27,Baguette,47
+2026-09-28,Baguette,49
+2026-09-29,Baguette,47
+2026-09-30,Baguette,67
+2026-10-01,Baguette,41
+2026-10-02,Baguette,75
+2026-10-03,Baguette,133
+2026-10-04,Baguette,79
+2026-10-05,Baguette,51
+2026-10-06,Baguette,69
+2026-10-07,Baguette,55
+2026-10-08,Baguette,55
+2026-10-09,Baguette,72
+2026-10-10,Baguette,87
+2026-10-11,Baguette,67
+2026-10-12,Baguette,89
+2026-10-13,Baguette,66
+2026-10-14,Baguette,66
+2026-10-15,Baguette,67
+2026-10-16,Baguette,73
+2026-10-17,Baguette,87
+2026-10-18,Baguette,97
+2026-10-19,Baguette,37
+2026-10-20,Baguette,56
+2026-10-21,Baguette,46
+2026-10-22,Baguette,48
+2026-10-23,Baguette,71
+2026-10-24,Baguette,103
+2026-10-25,Baguette,95
+2026-10-26,Baguette,62
+2026-10-27,Baguette,46
+2026-10-28,Baguette,59
+2026-10-29,Baguette,42
+2026-10-30,Baguette,80
+2026-10-31,Baguette,80
+2026-11-01,Baguette,103
+2026-11-02,Baguette,60
+2026-11-03,Baguette,42
+2026-11-04,Baguette,76
+2026-11-05,Baguette,51
+2026-11-06,Baguette,65
+2026-11-07,Baguette,83
+2026-11-08,Baguette,82
+2026-11-09,Baguette,57
+2026-11-10,Baguette,47
+2026-11-11,Baguette,62
+2026-11-12,Baguette,53
+2026-11-13,Baguette,61
+2026-11-14,Baguette,127
+2026-11-15,Baguette,88
+2026-11-16,Baguette,74
+2026-11-17,Baguette,58
+2026-11-18,Baguette,52
+2026-11-19,Baguette,61
+2026-11-20,Baguette,60
+2026-03-01,Sourdough loaf,19
+2026-03-02,Sourdough loaf,17
+2026-03-03,Sourdough loaf,28
+2026-03-04,Sourdough loaf,24
+2026-03-05,Sourdough loaf,32
+2026-03-06,Sourdough loaf,25
+2026-03-07,Sourdough loaf,43
+2026-03-08,Sourdough loaf,40
+2026-03-09,Sourdough loaf,18
+2026-03-10,Sourdough loaf,17
+2026-03-11,Sourdough loaf,15
+2026-03-12,Sourdough loaf,36
+2026-03-13,Sourdough loaf,21
+2026-03-14,Sourdough loaf,31
+2026-03-15,Sourdough loaf,26
+2026-03-16,Sourdough loaf,21
+2026-03-17,Sourdough loaf,29
+2026-03-18,Sourdough loaf,20
+2026-03-19,Sourdough loaf,19
+2026-03-20,Sourdough loaf,24
+2026-03-21,Sourdough loaf,44
+2026-03-22,Sourdough loaf,26
+2026-03-23,Sourdough loaf,14
+2026-03-24,Sourdough loaf,25
+2026-03-25,Sourdough loaf,16
+2026-03-26,Sourdough loaf,29
+2026-03-27,Sourdough loaf,22
+2026-03-28,Sourdough loaf,30
+2026-03-29,Sourdough loaf,23
+2026-03-30,Sourdough loaf,9
+2026-03-31,Sourdough loaf,23
+2026-04-01,Sourdough loaf,29
+2026-04-02,Sourdough loaf,20
+2026-04-03,Sourdough loaf,47
+2026-04-04,Sourdough loaf,34
+2026-04-05,Sourdough loaf,28
+2026-04-06,Sourdough loaf,21
+2026-04-07,Sourdough loaf,26
+2026-04-08,Sourdough loaf,35
+2026-04-09,Sourdough loaf,26
+2026-04-10,Sourdough loaf,29
+2026-04-11,Sourdough loaf,42
+2026-04-12,Sourdough loaf,28
+2026-04-13,Sourdough loaf,13
+2026-04-14,Sourdough loaf,21
+2026-04-15,Sourdough loaf,25
+2026-04-16,Sourdough loaf,26
+2026-04-17,Sourdough loaf,19
+2026-04-18,Sourdough loaf,19
+2026-04-19,Sourdough loaf,31
+2026-04-20,Sourdough loaf,25
+2026-04-21,Sourdough loaf,16
+2026-04-22,Sourdough loaf,30
+2026-04-23,Sourdough loaf,20
+2026-04-24,Sourdough loaf,32
+2026-04-25,Sourdough loaf,40
+2026-04-26,Sourdough loaf,32
+2026-04-27,Sourdough loaf,19
+2026-04-28,Sourdough loaf,32
+2026-04-29,Sourdough loaf,16
+2026-04-30,Sourdough loaf,31
+2026-05-01,Sourdough loaf,27
+2026-05-02,Sourdough loaf,40
+2026-05-03,Sourdough loaf,23
+2026-05-04,Sourdough loaf,18
+2026-05-05,Sourdough loaf,17
+2026-05-06,Sourdough loaf,16
+2026-05-07,Sourdough loaf,25
+2026-05-08,Sourdough loaf,34
+2026-05-09,Sourdough loaf,22
+2026-05-10,Sourdough loaf,39
+2026-05-11,Sourdough loaf,19
+2026-05-12,Sourdough loaf,29
+2026-05-13,Sourdough loaf,19
+2026-05-14,Sourdough loaf,17
+2026-05-15,Sourdough loaf,21
+2026-05-16,Sourdough loaf,35
+2026-05-17,Sourdough loaf,18
+2026-05-18,Sourdough loaf,28
+2026-05-19,Sourdough loaf,17
+2026-05-20,Sourdough loaf,27
+2026-05-21,Sourdough loaf,14
+2026-05-22,Sourdough loaf,26
+2026-05-23,Sourdough loaf,33
+2026-05-24,Sourdough loaf,43
+2026-05-25,Sourdough loaf,19
+2026-05-26,Sourdough loaf,8
+2026-05-27,Sourdough loaf,20
+2026-05-28,Sourdough loaf,34
+2026-05-29,Sourdough loaf,25
+2026-05-30,Sourdough loaf,40
+2026-05-31,Sourdough loaf,25
+2026-06-01,Sourdough loaf,15
+2026-06-02,Sourdough loaf,20
+2026-06-03,Sourdough loaf,26
+2026-06-04,Sourdough loaf,24
+2026-06-05,Sourdough loaf,20
+2026-06-06,Sourdough loaf,29
+2026-06-07,Sourdough loaf,37
+2026-06-08,Sourdough loaf,18
+2026-06-09,Sourdough loaf,22
+2026-06-10,Sourdough loaf,27
+2026-06-11,Sourdough loaf,17
+2026-06-12,Sourdough loaf,33
+2026-06-13,Sourdough loaf,54
+2026-06-14,Sourdough loaf,19
+2026-06-15,Sourdough loaf,16
+2026-06-16,Sourdough loaf,23
+2026-06-17,Sourdough loaf,22
+2026-06-18,Sourdough loaf,24
+2026-06-19,Sourdough loaf,32
+2026-06-20,Sourdough loaf,58
+2026-06-21,Sourdough loaf,37
+2026-06-22,Sourdough loaf,24
+2026-06-23,Sourdough loaf,24
+2026-06-24,Sourdough loaf,23
+2026-06-25,Sourdough loaf,30
+2026-06-26,Sourdough loaf,13
+2026-06-27,Sourdough loaf,35
+2026-06-28,Sourdough loaf,38
+2026-06-29,Sourdough loaf,26
+2026-06-30,Sourdough loaf,23
+2026-07-01,Sourdough loaf,16
+2026-07-02,Sourdough loaf,34
+2026-07-03,Sourdough loaf,35
+2026-07-04,Sourdough loaf,37
+2026-07-05,Sourdough loaf,42
+2026-07-06,Sourdough loaf,20
+2026-07-07,Sourdough loaf,30
+2026-07-08,Sourdough loaf,13
+2026-07-09,Sourdough loaf,28
+2026-07-10,Sourdough loaf,26
+2026-07-11,Sourdough loaf,51
+2026-07-12,Sourdough loaf,39
+2026-07-13,Sourdough loaf,24
+2026-07-14,Sourdough loaf,29
+2026-07-15,Sourdough loaf,25
+2026-07-16,Sourdough loaf,18
+2026-07-17,Sourdough loaf,17
+2026-07-18,Sourdough loaf,45
+2026-07-19,Sourdough loaf,27
+2026-07-20,Sourdough loaf,19
+2026-07-21,Sourdough loaf,32
+2026-07-22,Sourdough loaf,18
+2026-07-23,Sourdough loaf,32
+2026-07-24,Sourdough loaf,29
+2026-07-25,Sourdough loaf,22
+2026-07-26,Sourdough loaf,33
+2026-07-27,Sourdough loaf,25
+2026-07-28,Sourdough loaf,26
+2026-07-29,Sourdough loaf,13
+2026-07-30,Sourdough loaf,25
+2026-07-31,Sourdough loaf,27
+2026-08-01,Sourdough loaf,46
+2026-08-02,Sourdough loaf,18
+2026-08-03,Sourdough loaf,24
+2026-08-04,Sourdough loaf,31
+2026-08-05,Sourdough loaf,18
+2026-08-06,Sourdough loaf,26
+2026-08-07,Sourdough loaf,35
+2026-08-08,Sourdough loaf,55
+2026-08-09,Sourdough loaf,37
+2026-08-10,Sourdough loaf,17
+2026-08-11,Sourdough loaf,17
+2026-08-12,Sourdough loaf,16
+2026-08-13,Sourdough loaf,26
+2026-08-14,Sourdough loaf,20
+2026-08-15,Sourdough loaf,43
+2026-08-16,Sourdough loaf,38
+2026-08-17,Sourdough loaf,17
+2026-08-18,Sourdough loaf,18
+2026-08-19,Sourdough loaf,14
+2026-08-20,Sourdough loaf,23
+2026-08-21,Sourdough loaf,31
+2026-08-22,Sourdough loaf,39
+2026-08-23,Sourdough loaf,43
+2026-08-24,Sourdough loaf,25
+2026-08-25,Sourdough loaf,21
+2026-08-26,Sourdough loaf,35
+2026-08-27,Sourdough loaf,20
+2026-08-28,Sourdough loaf,28
+2026-08-29,Sourdough loaf,39
+2026-08-30,Sourdough loaf,21
+2026-08-31,Sourdough loaf,27
+2026-09-01,Sourdough loaf,19
+2026-09-02,Sourdough loaf,23
+2026-09-03,Sourdough loaf,35
+2026-09-04,Sourdough loaf,32
+2026-09-05,Sourdough loaf,40
+2026-09-06,Sourdough loaf,29
+2026-09-07,Sourdough loaf,20
+2026-09-08,Sourdough loaf,26
+2026-09-09,Sourdough loaf,29
+2026-09-10,Sourdough loaf,34
+2026-09-11,Sourdough loaf,31
+2026-09-12,Sourdough loaf,52
+2026-09-13,Sourdough loaf,29
+2026-09-14,Sourdough loaf,21
+2026-09-15,Sourdough loaf,17
+2026-09-16,Sourdough loaf,23
+2026-09-17,Sourdough loaf,23
+2026-09-18,Sourdough loaf,29
+2026-09-19,Sourdough loaf,41
+2026-09-20,Sourdough loaf,22
+2026-09-21,Sourdough loaf,23
+2026-09-22,Sourdough loaf,19
+2026-09-23,Sourdough loaf,22
+2026-09-24,Sourdough loaf,17
+2026-09-25,Sourdough loaf,25
+2026-09-26,Sourdough loaf,41
+2026-09-27,Sourdough loaf,35
+2026-09-28,Sourdough loaf,21
+2026-09-29,Sourdough loaf,22
+2026-09-30,Sourdough loaf,20
+2026-10-01,Sourdough loaf,30
+2026-10-02,Sourdough loaf,34
+2026-10-03,Sourdough loaf,65
+2026-10-04,Sourdough loaf,33
+2026-10-05,Sourdough loaf,19
+2026-10-06,Sourdough loaf,18
+2026-10-07,Sourdough loaf,18
+2026-10-08,Sourdough loaf,21
+2026-10-09,Sourdough loaf,27
+2026-10-10,Sourdough loaf,25
+2026-10-11,Sourdough loaf,21
+2026-10-12,Sourdough loaf,23
+2026-10-13,Sourdough loaf,28
+2026-10-14,Sourdough loaf,16
+2026-10-15,Sourdough loaf,24
+2026-10-16,Sourdough loaf,32
+2026-10-17,Sourdough loaf,38
+2026-10-18,Sourdough loaf,39
+2026-10-19,Sourdough loaf,28
+2026-10-20,Sourdough loaf,22
+2026-10-21,Sourdough loaf,25
+2026-10-22,Sourdough loaf,29
+2026-10-23,Sourdough loaf,30
+2026-10-24,Sourdough loaf,48
+2026-10-25,Sourdough loaf,37
+2026-10-26,Sourdough loaf,31
+2026-10-27,Sourdough loaf,25
+2026-10-28,Sourdough loaf,12
+2026-10-29,Sourdough loaf,20
+2026-10-30,Sourdough loaf,25
+2026-10-31,Sourdough loaf,23
+2026-11-01,Sourdough loaf,31
+2026-11-02,Sourdough loaf,18
+2026-11-03,Sourdough loaf,26
+2026-11-04,Sourdough loaf,25
+2026-11-05,Sourdough loaf,20
+2026-11-06,Sourdough loaf,29
+2026-11-07,Sourdough loaf,36
+2026-11-08,Sourdough loaf,33
+2026-11-09,Sourdough loaf,20
+2026-11-10,Sourdough loaf,22
+2026-11-11,Sourdough loaf,27
+2026-11-12,Sourdough loaf,22
+2026-11-13,Sourdough loaf,24
+2026-11-14,Sourdough loaf,50
+2026-11-15,Sourdough loaf,40
+2026-11-16,Sourdough loaf,28
+2026-11-17,Sourdough loaf,24
+2026-11-18,Sourdough loaf,22
+2026-11-19,Sourdough loaf,30
+2026-11-20,Sourdough loaf,28
+2026-03-01,Blueberry muffin,34
+2026-03-02,Blueberry muffin,36
+2026-03-03,Blueberry muffin,41
+2026-03-04,Blueberry muffin,36
+2026-03-05,Blueberry muffin,28
+2026-03-06,Blueberry muffin,30
+2026-03-07,Blueberry muffin,58
+2026-03-08,Blueberry muffin,40
+2026-03-09,Blueberry muffin,27
+2026-03-10,Blueberry muffin,22
+2026-03-11,Blueberry muffin,31
+2026-03-12,Blueberry muffin,46
+2026-03-13,Blueberry muffin,63
+2026-03-14,Blueberry muffin,42
+2026-03-15,Blueberry muffin,43
+2026-03-16,Blueberry muffin,27
+2026-03-17,Blueberry muffin,22
+2026-03-18,Blueberry muffin,44
+2026-03-19,Blueberry muffin,59
+2026-03-20,Blueberry muffin,38
+2026-03-21,Blueberry muffin,67
+2026-03-22,Blueberry muffin,52
+2026-03-23,Blueberry muffin,33
+2026-03-24,Blueberry muffin,36
+2026-03-25,Blueberry muffin,37
+2026-03-26,Blueberry muffin,28
+2026-03-27,Blueberry muffin,49
+2026-03-28,Blueberry muffin,46
+2026-03-29,Blueberry muffin,41
+2026-03-30,Blueberry muffin,31
+2026-03-31,Blueberry muffin,31
+2026-04-01,Blueberry muffin,27
+2026-04-02,Blueberry muffin,32
+2026-04-03,Blueberry muffin,47
+2026-04-04,Blueberry muffin,73
+2026-04-05,Blueberry muffin,45
+2026-04-06,Blueberry muffin,29
+2026-04-07,Blueberry muffin,35
+2026-04-08,Blueberry muffin,32
+2026-04-09,Blueberry muffin,37
+2026-04-10,Blueberry muffin,46
+2026-04-11,Blueberry muffin,67
+2026-04-12,Blueberry muffin,40
+2026-04-13,Blueberry muffin,37
+2026-04-14,Blueberry muffin,34
+2026-04-15,Blueberry muffin,32
+2026-04-16,Blueberry muffin,45
+2026-04-17,Blueberry muffin,40
+2026-04-18,Blueberry muffin,68
+2026-04-19,Blueberry muffin,43
+2026-04-20,Blueberry muffin,32
+2026-04-21,Blueberry muffin,35
+2026-04-22,Blueberry muffin,44
+2026-04-23,Blueberry muffin,53
+2026-04-24,Blueberry muffin,41
+2026-04-25,Blueberry muffin,72
+2026-04-26,Blueberry muffin,41
+2026-04-27,Blueberry muffin,43
+2026-04-28,Blueberry muffin,45
+2026-04-29,Blueberry muffin,37
+2026-04-30,Blueberry muffin,35
+2026-05-01,Blueberry muffin,34
+2026-05-02,Blueberry muffin,47
+2026-05-03,Blueberry muffin,42
+2026-05-04,Blueberry muffin,39
+2026-05-05,Blueberry muffin,26
+2026-05-06,Blueberry muffin,40
+2026-05-07,Blueberry muffin,21
+2026-05-08,Blueberry muffin,40
+2026-05-09,Blueberry muffin,39
+2026-05-10,Blueberry muffin,76
+2026-05-11,Blueberry muffin,26
+2026-05-12,Blueberry muffin,32
+2026-05-13,Blueberry muffin,28
+2026-05-14,Blueberry muffin,49
+2026-05-15,Blueberry muffin,33
+2026-05-16,Blueberry muffin,63
+2026-05-17,Blueberry muffin,46
+2026-05-18,Blueberry muffin,37
+2026-05-19,Blueberry muffin,38
+2026-05-20,Blueberry muffin,45
+2026-05-21,Blueberry muffin,38
+2026-05-22,Blueberry muffin,61
+2026-05-23,Blueberry muffin,63
+2026-05-24,Blueberry muffin,77
+2026-05-25,Blueberry muffin,36
+2026-05-26,Blueberry muffin,26
+2026-05-27,Blueberry muffin,34
+2026-05-28,Blueberry muffin,48
+2026-05-29,Blueberry muffin,48
+2026-05-30,Blueberry muffin,53
+2026-05-31,Blueberry muffin,48
+2026-06-01,Blueberry muffin,34
+2026-06-02,Blueberry muffin,51
+2026-06-03,Blueberry muffin,30
+2026-06-04,Blueberry muffin,54
+2026-06-05,Blueberry muffin,48
+2026-06-06,Blueberry muffin,68
+2026-06-07,Blueberry muffin,46
+2026-06-08,Blueberry muffin,38
+2026-06-09,Blueberry muffin,37
+2026-06-10,Blueberry muffin,53
+2026-06-11,Blueberry muffin,53
+2026-06-12,Blueberry muffin,53
+2026-06-13,Blueberry muffin,80
+2026-06-14,Blueberry muffin,51
+2026-06-15,Blueberry muffin,34
+2026-06-16,Blueberry muffin,30
+2026-06-17,Blueberry muffin,48
+2026-06-18,Blueberry muffin,31
+2026-06-19,Blueberry muffin,68
+2026-06-20,Blueberry muffin,68
+2026-06-21,Blueberry muffin,46
+2026-06-22,Blueberry muffin,49
+2026-06-23,Blueberry muffin,41
+2026-06-24,Blueberry muffin,28
+2026-06-25,Blueberry muffin,32
+2026-06-26,Blueberry muffin,59
+2026-06-27,Blueberry muffin,77
+2026-06-28,Blueberry muffin,67
+2026-06-29,Blueberry muffin,34
+2026-06-30,Blueberry muffin,58
+2026-07-01,Blueberry muffin,24
+2026-07-02,Blueberry muffin,54
+2026-07-03,Blueberry muffin,36
+2026-07-04,Blueberry muffin,103
+2026-07-05,Blueberry muffin,41
+2026-07-06,Blueberry muffin,30
+2026-07-07,Blueberry muffin,30
+2026-07-08,Blueberry muffin,35
+2026-07-09,Blueberry muffin,30
+2026-07-10,Blueberry muffin,52
+2026-07-11,Blueberry muffin,56
+2026-07-12,Blueberry muffin,93
+2026-07-13,Blueberry muffin,34
+2026-07-14,Blueberry muffin,42
+2026-07-15,Blueberry muffin,24
+2026-07-16,Blueberry muffin,26
+2026-07-17,Blueberry muffin,59
+2026-07-18,Blueberry muffin,48
+2026-07-19,Blueberry muffin,56
+2026-07-20,Blueberry muffin,42
+2026-07-21,Blueberry muffin,34
+2026-07-22,Blueberry muffin,29
+2026-07-23,Blueberry muffin,47
+2026-07-24,Blueberry muffin,48
+2026-07-25,Blueberry muffin,50
+2026-07-26,Blueberry muffin,55
+2026-07-27,Blueberry muffin,34
+2026-07-28,Blueberry muffin,46
+2026-07-29,Blueberry muffin,36
+2026-07-30,Blueberry muffin,47
+2026-07-31,Blueberry muffin,54
+2026-08-01,Blueberry muffin,67
+2026-08-02,Blueberry muffin,48
+2026-08-03,Blueberry muffin,30
+2026-08-04,Blueberry muffin,51
+2026-08-05,Blueberry muffin,46
+2026-08-06,Blueberry muffin,55
+2026-08-07,Blueberry muffin,40
+2026-08-08,Blueberry muffin,64
+2026-08-09,Blueberry muffin,66
+2026-08-10,Blueberry muffin,49
+2026-08-11,Blueberry muffin,51
+2026-08-12,Blueberry muffin,70
+2026-08-13,Blueberry muffin,49
+2026-08-14,Blueberry muffin,50
+2026-08-15,Blueberry muffin,62
+2026-08-16,Blueberry muffin,73
+2026-08-17,Blueberry muffin,42
+2026-08-18,Blueberry muffin,43
+2026-08-19,Blueberry muffin,44
+2026-08-20,Blueberry muffin,55
+2026-08-21,Blueberry muffin,50
+2026-08-22,Blueberry muffin,58
+2026-08-23,Blueberry muffin,57
+2026-08-24,Blueberry muffin,33
+2026-08-25,Blueberry muffin,24
+2026-08-26,Blueberry muffin,34
+2026-08-27,Blueberry muffin,38
+2026-08-28,Blueberry muffin,76
+2026-08-29,Blueberry muffin,78
+2026-08-30,Blueberry muffin,63
+2026-08-31,Blueberry muffin,35
+2026-09-01,Blueberry muffin,35
+2026-09-02,Blueberry muffin,57
+2026-09-03,Blueberry muffin,58
+2026-09-04,Blueberry muffin,41
+2026-09-05,Blueberry muffin,56
+2026-09-06,Blueberry muffin,49
+2026-09-07,Blueberry muffin,37
+2026-09-08,Blueberry muffin,31
+2026-09-09,Blueberry muffin,37
+2026-09-10,Blueberry muffin,27
+2026-09-11,Blueberry muffin,38
+2026-09-12,Blueberry muffin,89
+2026-09-13,Blueberry muffin,50
+2026-09-14,Blueberry muffin,35
+2026-09-15,Blueberry muffin,38
+2026-09-16,Blueberry muffin,35
+2026-09-17,Blueberry muffin,44
+2026-09-18,Blueberry muffin,38
+2026-09-19,Blueberry muffin,80
+2026-09-20,Blueberry muffin,49
+2026-09-21,Blueberry muffin,40
+2026-09-22,Blueberry muffin,35
+2026-09-23,Blueberry muffin,51
+2026-09-24,Blueberry muffin,40
+2026-09-25,Blueberry muffin,52
+2026-09-26,Blueberry muffin,65
+2026-09-27,Blueberry muffin,66
+2026-09-28,Blueberry muffin,34
+2026-09-29,Blueberry muffin,31
+2026-09-30,Blueberry muffin,44
+2026-10-01,Blueberry muffin,37
+2026-10-02,Blueberry muffin,43
+2026-10-03,Blueberry muffin,73
+2026-10-04,Blueberry muffin,43
+2026-10-05,Blueberry muffin,49
+2026-10-06,Blueberry muffin,58
+2026-10-07,Blueberry muffin,35
+2026-10-08,Blueberry muffin,43
+2026-10-09,Blueberry muffin,44
+2026-10-10,Blueberry muffin,54
+2026-10-11,Blueberry muffin,52
+2026-10-12,Blueberry muffin,36
+2026-10-13,Blueberry muffin,39
+2026-10-14,Blueberry muffin,38
+2026-10-15,Blueberry muffin,30
+2026-10-16,Blueberry muffin,50
+2026-10-17,Blueberry muffin,63
+2026-10-18,Blueberry muffin,81
+2026-10-19,Blueberry muffin,26
+2026-10-20,Blueberry muffin,26
+2026-10-21,Blueberry muffin,54
+2026-10-22,Blueberry muffin,48
+2026-10-23,Blueberry muffin,35
+2026-10-24,Blueberry muffin,57
+2026-10-25,Blueberry muffin,58
+2026-10-26,Blueberry muffin,33
+2026-10-27,Blueberry muffin,38
+2026-10-28,Blueberry muffin,48
+2026-10-29,Blueberry muffin,38
+2026-10-30,Blueberry muffin,42
+2026-10-31,Blueberry muffin,53
+2026-11-01,Blueberry muffin,36
+2026-11-02,Blueberry muffin,26
+2026-11-03,Blueberry muffin,33
+2026-11-04,Blueberry muffin,40
+2026-11-05,Blueberry muffin,53
+2026-11-06,Blueberry muffin,30
+2026-11-07,Blueberry muffin,43
+2026-11-08,Blueberry muffin,61
+2026-11-09,Blueberry muffin,28
+2026-11-10,Blueberry muffin,16
+2026-11-11,Blueberry muffin,46
+2026-11-12,Blueberry muffin,27
+2026-11-13,Blueberry muffin,51
+2026-11-14,Blueberry muffin,67
+2026-11-15,Blueberry muffin,58
+2026-11-16,Blueberry muffin,41
+2026-11-17,Blueberry muffin,33
+2026-11-18,Blueberry muffin,24
+2026-11-19,Blueberry muffin,24
+2026-11-20,Blueberry muffin,51
+2026-03-01,Chocolate chip cookie,46
+2026-03-02,Chocolate chip cookie,40
+2026-03-03,Chocolate chip cookie,45
+2026-03-04,Chocolate chip cookie,55
+2026-03-05,Chocolate chip cookie,58
+2026-03-06,Chocolate chip cookie,65
+2026-03-07,Chocolate chip cookie,62
+2026-03-08,Chocolate chip cookie,60
+2026-03-09,Chocolate chip cookie,40
+2026-03-10,Chocolate chip cookie,70
+2026-03-11,Chocolate chip cookie,37
+2026-03-12,Chocolate chip cookie,65
+2026-03-13,Chocolate chip cookie,69
+2026-03-14,Chocolate chip cookie,77
+2026-03-15,Chocolate chip cookie,62
+2026-03-16,Chocolate chip cookie,33
+2026-03-17,Chocolate chip cookie,46
+2026-03-18,Chocolate chip cookie,48
+2026-03-19,Chocolate chip cookie,53
+2026-03-20,Chocolate chip cookie,66
+2026-03-21,Chocolate chip cookie,86
+2026-03-22,Chocolate chip cookie,60
+2026-03-23,Chocolate chip cookie,69
+2026-03-24,Chocolate chip cookie,41
+2026-03-25,Chocolate chip cookie,60
+2026-03-26,Chocolate chip cookie,64
+2026-03-27,Chocolate chip cookie,73
+2026-03-28,Chocolate chip cookie,73
+2026-03-29,Chocolate chip cookie,57
+2026-03-30,Chocolate chip cookie,29
+2026-03-31,Chocolate chip cookie,42
+2026-04-01,Chocolate chip cookie,36
+2026-04-02,Chocolate chip cookie,47
+2026-04-03,Chocolate chip cookie,66
+2026-04-04,Chocolate chip cookie,62
+2026-04-05,Chocolate chip cookie,66
+2026-04-06,Chocolate chip cookie,56
+2026-04-07,Chocolate chip cookie,52
+2026-04-08,Chocolate chip cookie,36
+2026-04-09,Chocolate chip cookie,58
+2026-04-10,Chocolate chip cookie,65
+2026-04-11,Chocolate chip cookie,77
+2026-04-12,Chocolate chip cookie,77
+2026-04-13,Chocolate chip cookie,60
+2026-04-14,Chocolate chip cookie,49
+2026-04-15,Chocolate chip cookie,57
+2026-04-16,Chocolate chip cookie,78
+2026-04-17,Chocolate chip cookie,71
+2026-04-18,Chocolate chip cookie,78
+2026-04-19,Chocolate chip cookie,58
+2026-04-20,Chocolate chip cookie,49
+2026-04-21,Chocolate chip cookie,44
+2026-04-22,Chocolate chip cookie,33
+2026-04-23,Chocolate chip cookie,47
+2026-04-24,Chocolate chip cookie,73
+2026-04-25,Chocolate chip cookie,88
+2026-04-26,Chocolate chip cookie,83
+2026-04-27,Chocolate chip cookie,46
+2026-04-28,Chocolate chip cookie,45
+2026-04-29,Chocolate chip cookie,58
+2026-04-30,Chocolate chip cookie,47
+2026-05-01,Chocolate chip cookie,51
+2026-05-02,Chocolate chip cookie,80
+2026-05-03,Chocolate chip cookie,45
+2026-05-04,Chocolate chip cookie,90
+2026-05-05,Chocolate chip cookie,42
+2026-05-06,Chocolate chip cookie,34
+2026-05-07,Chocolate chip cookie,49
+2026-05-08,Chocolate chip cookie,47
+2026-05-09,Chocolate chip cookie,112
+2026-05-10,Chocolate chip cookie,77
+2026-05-11,Chocolate chip cookie,48
+2026-05-12,Chocolate chip cookie,59
+2026-05-13,Chocolate chip cookie,54
+2026-05-14,Chocolate chip cookie,49
+2026-05-15,Chocolate chip cookie,55
+2026-05-16,Chocolate chip cookie,84
+2026-05-17,Chocolate chip cookie,59
+2026-05-18,Chocolate chip cookie,56
+2026-05-19,Chocolate chip cookie,49
+2026-05-20,Chocolate chip cookie,40
+2026-05-21,Chocolate chip cookie,54
+2026-05-22,Chocolate chip cookie,52
+2026-05-23,Chocolate chip cookie,92
+2026-05-24,Chocolate chip cookie,65
+2026-05-25,Chocolate chip cookie,55
+2026-05-26,Chocolate chip cookie,39
+2026-05-27,Chocolate chip cookie,52
+2026-05-28,Chocolate chip cookie,49
+2026-05-29,Chocolate chip cookie,59
+2026-05-30,Chocolate chip cookie,90
+2026-05-31,Chocolate chip cookie,86
+2026-06-01,Chocolate chip cookie,86
+2026-06-02,Chocolate chip cookie,51
+2026-06-03,Chocolate chip cookie,39
+2026-06-04,Chocolate chip cookie,74
+2026-06-05,Chocolate chip cookie,76
+2026-06-06,Chocolate chip cookie,73
+2026-06-07,Chocolate chip cookie,57
+2026-06-08,Chocolate chip cookie,51
+2026-06-09,Chocolate chip cookie,46
+2026-06-10,Chocolate chip cookie,82
+2026-06-11,Chocolate chip cookie,43
+2026-06-12,Chocolate chip cookie,57
+2026-06-13,Chocolate chip cookie,98
+2026-06-14,Chocolate chip cookie,75
+2026-06-15,Chocolate chip cookie,50
+2026-06-16,Chocolate chip cookie,46
+2026-06-17,Chocolate chip cookie,32
+2026-06-18,Chocolate chip cookie,39
+2026-06-19,Chocolate chip cookie,46
+2026-06-20,Chocolate chip cookie,114
+2026-06-21,Chocolate chip cookie,71
+2026-06-22,Chocolate chip cookie,45
+2026-06-23,Chocolate chip cookie,48
+2026-06-24,Chocolate chip cookie,39
+2026-06-25,Chocolate chip cookie,63
+2026-06-26,Chocolate chip cookie,30
+2026-06-27,Chocolate chip cookie,78
+2026-06-28,Chocolate chip cookie,89
+2026-06-29,Chocolate chip cookie,30
+2026-06-30,Chocolate chip cookie,34
+2026-07-01,Chocolate chip cookie,53
+2026-07-02,Chocolate chip cookie,50
+2026-07-03,Chocolate chip cookie,55
+2026-07-04,Chocolate chip cookie,69
+2026-07-05,Chocolate chip cookie,55
+2026-07-06,Chocolate chip cookie,38
+2026-07-07,Chocolate chip cookie,49
+2026-07-08,Chocolate chip cookie,27
+2026-07-09,Chocolate chip cookie,64
+2026-07-10,Chocolate chip cookie,62
+2026-07-11,Chocolate chip cookie,111
+2026-07-12,Chocolate chip cookie,61
+2026-07-13,Chocolate chip cookie,52
+2026-07-14,Chocolate chip cookie,44
+2026-07-15,Chocolate chip cookie,44
+2026-07-16,Chocolate chip cookie,49
+2026-07-17,Chocolate chip cookie,94
+2026-07-18,Chocolate chip cookie,86
+2026-07-19,Chocolate chip cookie,65
+2026-07-20,Chocolate chip cookie,62
+2026-07-21,Chocolate chip cookie,44
+2026-07-22,Chocolate chip cookie,43
+2026-07-23,Chocolate chip cookie,64
+2026-07-24,Chocolate chip cookie,52
+2026-07-25,Chocolate chip cookie,102
+2026-07-26,Chocolate chip cookie,81
+2026-07-27,Chocolate chip cookie,40
+2026-07-28,Chocolate chip cookie,49
+2026-07-29,Chocolate chip cookie,52
+2026-07-30,Chocolate chip cookie,58
+2026-07-31,Chocolate chip cookie,60
+2026-08-01,Chocolate chip cookie,100
+2026-08-02,Chocolate chip cookie,83
+2026-08-03,Chocolate chip cookie,49
+2026-08-04,Chocolate chip cookie,52
+2026-08-05,Chocolate chip cookie,67
+2026-08-06,Chocolate chip cookie,39
+2026-08-07,Chocolate chip cookie,88
+2026-08-08,Chocolate chip cookie,112
+2026-08-09,Chocolate chip cookie,48
+2026-08-10,Chocolate chip cookie,36
+2026-08-11,Chocolate chip cookie,33
+2026-08-12,Chocolate chip cookie,34
+2026-08-13,Chocolate chip cookie,52
+2026-08-14,Chocolate chip cookie,46
+2026-08-15,Chocolate chip cookie,117
+2026-08-16,Chocolate chip cookie,81
+2026-08-17,Chocolate chip cookie,55
+2026-08-18,Chocolate chip cookie,51
+2026-08-19,Chocolate chip cookie,34
+2026-08-20,Chocolate chip cookie,51
+2026-08-21,Chocolate chip cookie,43
+2026-08-22,Chocolate chip cookie,92
+2026-08-23,Chocolate chip cookie,90
+2026-08-24,Chocolate chip cookie,34
+2026-08-25,Chocolate chip cookie,47
+2026-08-26,Chocolate chip cookie,56
+2026-08-27,Chocolate chip cookie,74
+2026-08-28,Chocolate chip cookie,90
+2026-08-29,Chocolate chip cookie,100
+2026-08-30,Chocolate chip cookie,62
+2026-08-31,Chocolate chip cookie,43
+2026-09-01,Chocolate chip cookie,58
+2026-09-02,Chocolate chip cookie,60
+2026-09-03,Chocolate chip cookie,37
+2026-09-04,Chocolate chip cookie,76
+2026-09-05,Chocolate chip cookie,84
+2026-09-06,Chocolate chip cookie,63
+2026-09-07,Chocolate chip cookie,37
+2026-09-08,Chocolate chip cookie,51
+2026-09-09,Chocolate chip cookie,61
+2026-09-10,Chocolate chip cookie,60
+2026-09-11,Chocolate chip cookie,55
+2026-09-12,Chocolate chip cookie,116
+2026-09-13,Chocolate chip cookie,57
+2026-09-14,Chocolate chip cookie,37
+2026-09-15,Chocolate chip cookie,34
+2026-09-16,Chocolate chip cookie,47
+2026-09-17,Chocolate chip cookie,56
+2026-09-18,Chocolate chip cookie,69
+2026-09-19,Chocolate chip cookie,135
+2026-09-20,Chocolate chip cookie,58
+2026-09-21,Chocolate chip cookie,38
+2026-09-22,Chocolate chip cookie,48
+2026-09-23,Chocolate chip cookie,60
+2026-09-24,Chocolate chip cookie,55
+2026-09-25,Chocolate chip cookie,61
+2026-09-26,Chocolate chip cookie,87
+2026-09-27,Chocolate chip cookie,73
+2026-09-28,Chocolate chip cookie,39
+2026-09-29,Chocolate chip cookie,43
+2026-09-30,Chocolate chip cookie,73
+2026-10-01,Chocolate chip cookie,50
+2026-10-02,Chocolate chip cookie,64
+2026-10-03,Chocolate chip cookie,115
+2026-10-04,Chocolate chip cookie,69
+2026-10-05,Chocolate chip cookie,41
+2026-10-06,Chocolate chip cookie,44
+2026-10-07,Chocolate chip cookie,56
+2026-10-08,Chocolate chip cookie,51
+2026-10-09,Chocolate chip cookie,47
+2026-10-10,Chocolate chip cookie,55
+2026-10-11,Chocolate chip cookie,71
+2026-10-12,Chocolate chip cookie,74
+2026-10-13,Chocolate chip cookie,63
+2026-10-14,Chocolate chip cookie,67
+2026-10-15,Chocolate chip cookie,60
+2026-10-16,Chocolate chip cookie,97
+2026-10-17,Chocolate chip cookie,76
+2026-10-18,Chocolate chip cookie,80
+2026-10-19,Chocolate chip cookie,45
+2026-10-20,Chocolate chip cookie,56
+2026-10-21,Chocolate chip cookie,41
+2026-10-22,Chocolate chip cookie,52
+2026-10-23,Chocolate chip cookie,77
+2026-10-24,Chocolate chip cookie,89
+2026-10-25,Chocolate chip cookie,64
+2026-10-26,Chocolate chip cookie,52
+2026-10-27,Chocolate chip cookie,47
+2026-10-28,Chocolate chip cookie,56
+2026-10-29,Chocolate chip cookie,70
+2026-10-30,Chocolate chip cookie,63
+2026-10-31,Chocolate chip cookie,145
+2026-11-01,Chocolate chip cookie,39
+2026-11-02,Chocolate chip cookie,35
+2026-11-03,Chocolate chip cookie,32
+2026-11-04,Chocolate chip cookie,49
+2026-11-05,Chocolate chip cookie,55
+2026-11-06,Chocolate chip cookie,61
+2026-11-07,Chocolate chip cookie,81
+2026-11-08,Chocolate chip cookie,76
+2026-11-09,Chocolate chip cookie,60
+2026-11-10,Chocolate chip cookie,53
+2026-11-11,Chocolate chip cookie,55
+2026-11-12,Chocolate chip cookie,50
+2026-11-13,Chocolate chip cookie,81
+2026-11-14,Chocolate chip cookie,73
+2026-11-15,Chocolate chip cookie,68
+2026-11-16,Chocolate chip cookie,37
+2026-11-17,Chocolate chip cookie,58
+2026-11-18,Chocolate chip cookie,48
+2026-11-19,Chocolate chip cookie,41
+2026-11-20,Chocolate chip cookie,59
+2026-03-01,Cinnamon bun,41
+2026-03-02,Cinnamon bun,25
+2026-03-03,Cinnamon bun,44
+2026-03-04,Cinnamon bun,30
+2026-03-05,Cinnamon bun,31
+2026-03-06,Cinnamon bun,42
+2026-03-07,Cinnamon bun,45
+2026-03-08,Cinnamon bun,41
+2026-03-09,Cinnamon bun,27
+2026-03-10,Cinnamon bun,38
+2026-03-11,Cinnamon bun,35
+2026-03-12,Cinnamon bun,55
+2026-03-13,Cinnamon bun,41
+2026-03-14,Cinnamon bun,52
+2026-03-15,Cinnamon bun,54
+2026-03-16,Cinnamon bun,33
+2026-03-17,Cinnamon bun,36
+2026-03-18,Cinnamon bun,30
+2026-03-19,Cinnamon bun,49
+2026-03-20,Cinnamon bun,56
+2026-03-21,Cinnamon bun,36
+2026-03-22,Cinnamon bun,40
+2026-03-23,Cinnamon bun,38
+2026-03-24,Cinnamon bun,29
+2026-03-25,Cinnamon bun,33
+2026-03-26,Cinnamon bun,23
+2026-03-27,Cinnamon bun,37
+2026-03-28,Cinnamon bun,47
+2026-03-29,Cinnamon bun,29
+2026-03-30,Cinnamon bun,25
+2026-03-31,Cinnamon bun,27
+2026-04-01,Cinnamon bun,20
+2026-04-02,Cinnamon bun,31
+2026-04-03,Cinnamon bun,32
+2026-04-04,Cinnamon bun,52
+2026-04-05,Cinnamon bun,42
+2026-04-06,Cinnamon bun,38
+2026-04-07,Cinnamon bun,25
+2026-04-08,Cinnamon bun,11
+2026-04-09,Cinnamon bun,47
+2026-04-10,Cinnamon bun,28
+2026-04-11,Cinnamon bun,36
+2026-04-12,Cinnamon bun,42
+2026-04-13,Cinnamon bun,35
+2026-04-14,Cinnamon bun,29
+2026-04-15,Cinnamon bun,32
+2026-04-16,Cinnamon bun,29
+2026-04-17,Cinnamon bun,33
+2026-04-18,Cinnamon bun,44
+2026-04-19,Cinnamon bun,37
+2026-04-20,Cinnamon bun,21
+2026-04-21,Cinnamon bun,18
+2026-04-22,Cinnamon bun,35
+2026-04-23,Cinnamon bun,46
+2026-04-24,Cinnamon bun,37
+2026-04-25,Cinnamon bun,61
+2026-04-26,Cinnamon bun,65
+2026-04-27,Cinnamon bun,18
+2026-04-28,Cinnamon bun,34
+2026-04-29,Cinnamon bun,29
+2026-04-30,Cinnamon bun,25
+2026-05-01,Cinnamon bun,35
+2026-05-02,Cinnamon bun,56
+2026-05-03,Cinnamon bun,48
+2026-05-04,Cinnamon bun,32
+2026-05-05,Cinnamon bun,31
+2026-05-06,Cinnamon bun,22
+2026-05-07,Cinnamon bun,25
+2026-05-08,Cinnamon bun,34
+2026-05-09,Cinnamon bun,52
+2026-05-10,Cinnamon bun,54
+2026-05-11,Cinnamon bun,34
+2026-05-12,Cinnamon bun,35
+2026-05-13,Cinnamon bun,42
+2026-05-14,Cinnamon bun,28
+2026-05-15,Cinnamon bun,32
+2026-05-16,Cinnamon bun,58
+2026-05-17,Cinnamon bun,49
+2026-05-18,Cinnamon bun,27
+2026-05-19,Cinnamon bun,31
+2026-05-20,Cinnamon bun,37
+2026-05-21,Cinnamon bun,29
+2026-05-22,Cinnamon bun,28
+2026-05-23,Cinnamon bun,71
+2026-05-24,Cinnamon bun,37
+2026-05-25,Cinnamon bun,29
+2026-05-26,Cinnamon bun,23
+2026-05-27,Cinnamon bun,23
+2026-05-28,Cinnamon bun,30
+2026-05-29,Cinnamon bun,40
+2026-05-30,Cinnamon bun,48
+2026-05-31,Cinnamon bun,40
+2026-06-01,Cinnamon bun,26
+2026-06-02,Cinnamon bun,27
+2026-06-03,Cinnamon bun,17
+2026-06-04,Cinnamon bun,28
+2026-06-05,Cinnamon bun,41
+2026-06-06,Cinnamon bun,45
+2026-06-07,Cinnamon bun,26
+2026-06-08,Cinnamon bun,30
+2026-06-09,Cinnamon bun,28
+2026-06-10,Cinnamon bun,43
+2026-06-11,Cinnamon bun,28
+2026-06-12,Cinnamon bun,51
+2026-06-13,Cinnamon bun,45
+2026-06-14,Cinnamon bun,40
+2026-06-15,Cinnamon bun,26
+2026-06-16,Cinnamon bun,37
+2026-06-17,Cinnamon bun,22
+2026-06-18,Cinnamon bun,23
+2026-06-19,Cinnamon bun,32
+2026-06-20,Cinnamon bun,36
+2026-06-21,Cinnamon bun,29
+2026-06-22,Cinnamon bun,28
+2026-06-23,Cinnamon bun,20
+2026-06-24,Cinnamon bun,21
+2026-06-25,Cinnamon bun,32
+2026-06-26,Cinnamon bun,34
+2026-06-27,Cinnamon bun,43
+2026-06-28,Cinnamon bun,31
+2026-06-29,Cinnamon bun,18
+2026-06-30,Cinnamon bun,23
+2026-07-01,Cinnamon bun,18
+2026-07-02,Cinnamon bun,18
+2026-07-03,Cinnamon bun,30
+2026-07-04,Cinnamon bun,35
+2026-07-05,Cinnamon bun,34
+2026-07-06,Cinnamon bun,21
+2026-07-07,Cinnamon bun,29
+2026-07-08,Cinnamon bun,18
+2026-07-09,Cinnamon bun,21
+2026-07-10,Cinnamon bun,34
+2026-07-11,Cinnamon bun,52
+2026-07-12,Cinnamon bun,51
+2026-07-13,Cinnamon bun,16
+2026-07-14,Cinnamon bun,30
+2026-07-15,Cinnamon bun,22
+2026-07-16,Cinnamon bun,27
+2026-07-17,Cinnamon bun,27
+2026-07-18,Cinnamon bun,44
+2026-07-19,Cinnamon bun,28
+2026-07-20,Cinnamon bun,23
+2026-07-21,Cinnamon bun,25
+2026-07-22,Cinnamon bun,21
+2026-07-23,Cinnamon bun,16
+2026-07-24,Cinnamon bun,42
+2026-07-25,Cinnamon bun,41
+2026-07-26,Cinnamon bun,45
+2026-07-27,Cinnamon bun,20
+2026-07-28,Cinnamon bun,25
+2026-07-29,Cinnamon bun,27
+2026-07-30,Cinnamon bun,30
+2026-07-31,Cinnamon bun,34
+2026-08-01,Cinnamon bun,32
+2026-08-02,Cinnamon bun,42
+2026-08-03,Cinnamon bun,33
+2026-08-04,Cinnamon bun,18
+2026-08-05,Cinnamon bun,32
+2026-08-06,Cinnamon bun,31
+2026-08-07,Cinnamon bun,28
+2026-08-08,Cinnamon bun,59
+2026-08-09,Cinnamon bun,36
+2026-08-10,Cinnamon bun,29
+2026-08-11,Cinnamon bun,30
+2026-08-12,Cinnamon bun,25
+2026-08-13,Cinnamon bun,22
+2026-08-14,Cinnamon bun,21
+2026-08-15,Cinnamon bun,28
+2026-08-16,Cinnamon bun,40
+2026-08-17,Cinnamon bun,32
+2026-08-18,Cinnamon bun,30
+2026-08-19,Cinnamon bun,28
+2026-08-20,Cinnamon bun,33
+2026-08-21,Cinnamon bun,28
+2026-08-22,Cinnamon bun,36
+2026-08-23,Cinnamon bun,37
+2026-08-24,Cinnamon bun,31
+2026-08-25,Cinnamon bun,21
+2026-08-26,Cinnamon bun,32
+2026-08-27,Cinnamon bun,24
+2026-08-28,Cinnamon bun,28
+2026-08-29,Cinnamon bun,44
+2026-08-30,Cinnamon bun,40
+2026-08-31,Cinnamon bun,21
+2026-09-01,Cinnamon bun,22
+2026-09-02,Cinnamon bun,24
+2026-09-03,Cinnamon bun,41
+2026-09-04,Cinnamon bun,32
+2026-09-05,Cinnamon bun,43
+2026-09-06,Cinnamon bun,39
+2026-09-07,Cinnamon bun,25
+2026-09-08,Cinnamon bun,18
+2026-09-09,Cinnamon bun,25
+2026-09-10,Cinnamon bun,35
+2026-09-11,Cinnamon bun,35
+2026-09-12,Cinnamon bun,50
+2026-09-13,Cinnamon bun,44
+2026-09-14,Cinnamon bun,39
+2026-09-15,Cinnamon bun,26
+2026-09-16,Cinnamon bun,21
+2026-09-17,Cinnamon bun,25
+2026-09-18,Cinnamon bun,32
+2026-09-19,Cinnamon bun,41
+2026-09-20,Cinnamon bun,30
+2026-09-21,Cinnamon bun,29
+2026-09-22,Cinnamon bun,19
+2026-09-23,Cinnamon bun,31
+2026-09-24,Cinnamon bun,41
+2026-09-25,Cinnamon bun,40
+2026-09-26,Cinnamon bun,50
+2026-09-27,Cinnamon bun,21
+2026-09-28,Cinnamon bun,28
+2026-09-29,Cinnamon bun,22
+2026-09-30,Cinnamon bun,38
+2026-10-01,Cinnamon bun,38
+2026-10-02,Cinnamon bun,41
+2026-10-03,Cinnamon bun,58
+2026-10-04,Cinnamon bun,48
+2026-10-05,Cinnamon bun,28
+2026-10-06,Cinnamon bun,28
+2026-10-07,Cinnamon bun,43
+2026-10-08,Cinnamon bun,34
+2026-10-09,Cinnamon bun,45
+2026-10-10,Cinnamon bun,56
+2026-10-11,Cinnamon bun,46
+2026-10-12,Cinnamon bun,48
+2026-10-13,Cinnamon bun,33
+2026-10-14,Cinnamon bun,35
+2026-10-15,Cinnamon bun,33
+2026-10-16,Cinnamon bun,59
+2026-10-17,Cinnamon bun,53
+2026-10-18,Cinnamon bun,59
+2026-10-19,Cinnamon bun,9
+2026-10-20,Cinnamon bun,28
+2026-10-21,Cinnamon bun,31
+2026-10-22,Cinnamon bun,26
+2026-10-23,Cinnamon bun,48
+2026-10-24,Cinnamon bun,71
+2026-10-25,Cinnamon bun,34
+2026-10-26,Cinnamon bun,27
+2026-10-27,Cinnamon bun,21
+2026-10-28,Cinnamon bun,27
+2026-10-29,Cinnamon bun,40
+2026-10-30,Cinnamon bun,38
+2026-10-31,Cinnamon bun,46
+2026-11-01,Cinnamon bun,36
+2026-11-02,Cinnamon bun,20
+2026-11-03,Cinnamon bun,42
+2026-11-04,Cinnamon bun,31
+2026-11-05,Cinnamon bun,47
+2026-11-06,Cinnamon bun,48
+2026-11-07,Cinnamon bun,27
+2026-11-08,Cinnamon bun,60
+2026-11-09,Cinnamon bun,29
+2026-11-10,Cinnamon bun,31
+2026-11-11,Cinnamon bun,40
+2026-11-12,Cinnamon bun,22
+2026-11-13,Cinnamon bun,28
+2026-11-14,Cinnamon bun,51
+2026-11-15,Cinnamon bun,34
+2026-11-16,Cinnamon bun,40
+2026-11-17,Cinnamon bun,35
+2026-11-18,Cinnamon bun,31
+2026-11-19,Cinnamon bun,34
+2026-11-20,Cinnamon bun,43

@@ -1,0 +1,37 @@
+food_item,ingredient,quantity_per_portion,unit,readable_amount
+Croissant,All-purpose flour,0.05,kg,50 g
+Croissant,Butter,0.038,kg,38 g
+Croissant,White sugar,0.006,kg,6 g
+Croissant,Milk,0.012,L,12 ml
+Croissant,Instant yeast,0.001,kg,1 g
+Croissant,Salt,0.001,kg,1 g
+Pain au chocolat,All-purpose flour,0.055,kg,55 g
+Pain au chocolat,Butter,0.04,kg,40 g
+Pain au chocolat,White sugar,0.006,kg,6 g
+Pain au chocolat,Milk,0.012,L,12 ml
+Pain au chocolat,Instant yeast,0.001,kg,1 g
+Pain au chocolat,Salt,0.001,kg,1 g
+Pain au chocolat,Dark chocolate,0.014,kg,14 g
+Baguette,All-purpose flour,0.22,kg,220 g
+Baguette,Salt,0.004,kg,4 g
+Baguette,Instant yeast,0.002,kg,2 g
+Sourdough loaf,All-purpose flour,0.48,kg,480 g
+Sourdough loaf,Salt,0.01,kg,10 g
+Blueberry muffin,All-purpose flour,0.075,kg,75 g
+Blueberry muffin,White sugar,0.055,kg,55 g
+Blueberry muffin,Butter,0.04,kg,40 g
+Blueberry muffin,Eggs,0.5,each,0.5 each
+Blueberry muffin,Milk,0.06,L,60 ml
+Blueberry muffin,Blueberries,0.05,kg,50 g
+Chocolate chip cookie,All-purpose flour,0.045,kg,45 g
+Chocolate chip cookie,Butter,0.035,kg,35 g
+Chocolate chip cookie,White sugar,0.03,kg,30 g
+Chocolate chip cookie,Eggs,0.25,each,0.25 each
+Chocolate chip cookie,Dark chocolate,0.03,kg,30 g
+Cinnamon bun,All-purpose flour,0.085,kg,85 g
+Cinnamon bun,Butter,0.028,kg,28 g
+Cinnamon bun,White sugar,0.03,kg,30 g
+Cinnamon bun,Milk,0.03,L,30 ml
+Cinnamon bun,Instant yeast,0.002,kg,2 g
+Cinnamon bun,Cinnamon,0.003,kg,3 g
+Cinnamon bun,Eggs,0.25,each,0.25 each

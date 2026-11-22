@@ -1,0 +1,8 @@
+food_item,category,selling_price_cad,ingredient_cost_per_portion_cad,other_variable_cost_cad,total_variable_cost_cad,ingredient_cost_pct_of_price,batch_size,shelf_life_days
+Croissant,pastry,3.75,0.55,0.22,0.77,14.7,12,1
+Pain au chocolat,pastry,4.25,0.749,0.22,0.969,17.6,12,1
+Baguette,bread,3.5,0.418,0.18,0.598,11.9,6,1
+Sourdough loaf,bread,9.5,0.873,0.3,1.173,9.2,4,2
+Blueberry muffin,muffin,3.95,1.443,0.25,1.693,36.5,12,2
+Chocolate chip cookie,cookie,3.25,0.942,0.15,1.092,29.0,12,3
+Cinnamon bun,pastry,4.5,0.737,0.25,0.987,16.4,8,1
